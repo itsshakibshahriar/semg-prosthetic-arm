@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "sEMG-driven prosthetic arm with edge-deployed deep learning"
+authors:
+  - family-names: "Islam"
+    given-names: "Syed Shakib Shahriar"
+  - family-names: "Moznuzzaman"
+    given-names: "Md."
+repository-code: "https://github.com/YOUR-USERNAME/semg-prosthetic-arm"
+license: MIT
