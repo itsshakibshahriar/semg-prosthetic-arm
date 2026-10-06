@@ -1,6 +1,0 @@
-# Replace with your actual pinned versions (run: pip freeze | grep -i -E "numpy|scipy|pandas|scikit|torch|tensorflow|matplotlib")
-numpy
-scipy
-pandas
-scikit-learn
-matplotlib
